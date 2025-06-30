@@ -99,3 +99,18 @@ footer {
     color: #850AE5;
     font-weight: bolder;
 }
+
+.sites{
+    position: relative;
+    width: 60px;
+    height: 60px;
+}
+
+.icons{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color: #850AE5;
+    padding: 30px;
+    font-size: 20px;
+}
